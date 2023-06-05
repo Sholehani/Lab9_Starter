@@ -3,4 +3,8 @@
 [GitHub Pages](https://sholehani.github.io/Lab9_Starter/index.html)
 
 ### Part 5 Screen Capture
-<video src="media/part5.mp4" controls title="Title"></video>
+
+
+
+
+https://github.com/Sholehani/Lab9_Starter/assets/49048471/3ccfd013-d289-4a05-b8cb-859da024868f
